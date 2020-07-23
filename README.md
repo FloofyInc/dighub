@@ -3,7 +3,7 @@
 > For everyones dig projects
 
 Aimed at pet owners with pet's that like to dig and anyone that likes to dig. You can record the dig projetcts progression and have a catalogue
-of all previous dig projects. 
+of all previous dig projects and all previous logged progress. 
 
 ## Features
 
