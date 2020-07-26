@@ -23,3 +23,7 @@ Possibly use real git to keep track of repos and version control. Might be overk
     * Fork project
 	* perform the above steps
 	* send in a pull request to original owner
+
+## Credits
+  
+* Boilerplate: [crsandeep/simple-react-full-stack](https://github.com/crsandeep/simple-react-full-stack)
