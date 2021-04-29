@@ -1,0 +1,15 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: daily
+  open-pull-requests-limit: 10
+  target-branch: dependencies
+  labels:
+  - automerge
+  - dependencies
+  ignore:
+  - dependency-name: webpack
+    versions:
+    - 5.34.0
